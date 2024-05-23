@@ -20,7 +20,7 @@
 
 ## 下載：
 - 這裡可以[下載](https://github.com/crash5band/MikuMikuWorld/releases/latest/download/MikuMikuWorld.zip)原作者的最新版本。
-- 這裡可以[下載](https://github.com/koko0221/MikuMikuWorld-zh_TW/releases/download/zh_TW-Latest/MikuMikuWorld-3.0.0.zip)有加入繁體中文翻譯的V3.0.0版本。
+- 這裡可以[下載](https://github.com/koko0221/MikuMikuWorld-zh_TW/releases/download/v3.2.1/MikuMikuWorld-3.2.1.zip)有加入繁體中文翻譯的V3.2.1版本。
 
 ## 螢幕截圖：
 ![MikuMikuWorld](https://github.com/koko0221/MikuMikuWorld-zh_TW/assets/81467006/0f396037-b261-4485-9f95-03dd2dfba4e2)
