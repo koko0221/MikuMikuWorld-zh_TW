@@ -1,4 +1,4 @@
-**English** / [日本語](./README.ja.md)
+**English** / [日本語](./README.ja.md) / [繁體中文](./README.zh-TW.md)
 
 # MikuMikuWorld
 A chart editor and viewer for the mobile rhythm game Project Sekai Colorful Stage feat. Hatsune Miku.
