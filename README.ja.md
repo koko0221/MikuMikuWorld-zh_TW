@@ -1,4 +1,4 @@
-[English](./README.md) / **日本語**
+[English](./README.md) / **日本語** / [繁體中文](./README.zh-TW.md)
 
 # MikuMikuWorld
 プロセカ用の譜面エディタ・譜面ビューアー。
